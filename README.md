@@ -48,13 +48,6 @@ Replace:
 - `'logo'` → Name of your Discord asset (from step 1)
 - `'SERVER_NAME | SERVER_VERSION'` → Your server name and version
 
-### Step 3: Update fxmanifest.lua
-
-Open `fxmanifest.lua` and change:
-```lua
-author 'YOUR_NAME_HERE' -- TODO: Change to your name
-```
-
 ## How It Works
 
 1. **Client-side** (`client.lua`):
@@ -94,3 +87,4 @@ If you encounter issues:
 ---
 
 Made for FiveM community ❤️
+
