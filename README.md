@@ -46,7 +46,7 @@ SetDiscordRichPresenceAssetText('SERVER_NAME')
 Replace:
 - `YOUR_DISCORD_APP_ID_HERE` → Your Discord Application ID
 - `'logo'` → Name of your Discord asset (from step 1)
-- `'SERVER_NAME | SERVER_VERSION'` → Your server name and version
+- `'SERVER_NAME'` → Your server name
 
 ## How It Works
 
@@ -87,4 +87,5 @@ If you encounter issues:
 ---
 
 Made for FiveM community ❤️
+
 
